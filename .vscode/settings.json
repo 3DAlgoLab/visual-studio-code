@@ -2,5 +2,25 @@
     "files.trimTrailingWhitespace": true,
     "[yaml]": {
         "editor.renderWhitespace": "boundary",
-    }
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#ac769c",
+        "activityBar.background": "#ac769c",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#c6cfb0",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#ac769c",
+        "statusBar.background": "#955a84",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#ac769c",
+        "statusBarItem.remoteBackground": "#955a84",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#955a84",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#955a8499",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#955a84"
 }
